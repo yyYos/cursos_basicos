@@ -2,7 +2,7 @@
 //---------------------Metodos estaticos
 class OtraClase
 {
-  //metodo statico, significa que no necesita crearse un objeto ($objeto = New OtraClase)
+  //metodo estatico, significa que no necesita crearse un objeto ($objeto = New OtraClase)
   public static function metodoSinObjeto()
     {
       echo "Metodo sin objeto";
